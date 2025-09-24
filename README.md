@@ -29,9 +29,9 @@ A full-featured web application for vintage watch trading: submit watches for ap
 
 | Vai trò        | Mô tả                                         | Quyền hạn                                                |
 |----------------|-----------------------------------------------|----------------------------------------------------------|
-| 🧑‍💼 Seller    | Cá nhân bán đồng hồ vintage                   | Gửi đồng hồ thẩm định, nhận thông báo, quyết định bán    |
-| 🏢 Company     | Đơn vị vận hành & thẩm định đồng hồ           | Nhận đồng hồ, thẩm định, gửi kết quả, quản lý giao dịch  |
-| 🛒 Buyer       | Người muốn mua đồng hồ trên nền tảng          | Tìm kiếm, đặt mua, thanh toán                            |
+| 🧑‍💼 Seller     | Cá nhân bán đồng hồ vintage                   | Gửi đồng hồ thẩm định, nhận thông báo, quyết định bán    |
+| 🏢 Appraiser  | Đơn vị vận hành & thẩm định đồng hồ           | Nhận đồng hồ, thẩm định, gửi kết quả, quản lý giao dịch  |
+| 🛒 Buyer      | Người muốn mua đồng hồ trên nền tảng          | Tìm kiếm, đặt mua, thanh toán                            |
 | 👩‍💻 Admin      | Quản trị hệ thống                             | Quản lý sản phẩm, giao dịch, người dùng, báo cáo         |
 
 ---
