@@ -1,0 +1,15 @@
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Repositories\bin\Debug\net8.0\Timepiece.Repositories.deps.json
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Repositories\bin\Debug\net8.0\Timepiece.Repositories.dll
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Repositories\bin\Debug\net8.0\Timepiece.Repositories.pdb
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Repositories\bin\Debug\net8.0\Timepiece.Common.dll
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Repositories\bin\Debug\net8.0\Timepiece.Common.pdb
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Repositories\obj\Debug\net8.0\Timepiece.Repositories.csproj.AssemblyReference.cache
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Repositories\obj\Debug\net8.0\Timepiece.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Repositories\obj\Debug\net8.0\Timepiece.Repositories.AssemblyInfoInputs.cache
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Repositories\obj\Debug\net8.0\Timepiece.Repositories.AssemblyInfo.cs
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Repositories\obj\Debug\net8.0\Timepiece.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Repositories\obj\Debug\net8.0\Timepiec.CAFB3A9B.Up2Date
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Repositories\obj\Debug\net8.0\Timepiece.Repositories.dll
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Repositories\obj\Debug\net8.0\refint\Timepiece.Repositories.dll
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Repositories\obj\Debug\net8.0\Timepiece.Repositories.pdb
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Repositories\obj\Debug\net8.0\ref\Timepiece.Repositories.dll

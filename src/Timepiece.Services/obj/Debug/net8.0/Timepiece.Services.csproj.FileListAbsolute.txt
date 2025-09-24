@@ -1,0 +1,17 @@
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\bin\Debug\net8.0\Timepiece.Services.deps.json
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\bin\Debug\net8.0\Timepiece.Services.dll
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\bin\Debug\net8.0\Timepiece.Services.pdb
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\bin\Debug\net8.0\Timepiece.Common.dll
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\bin\Debug\net8.0\Timepiece.Repositories.dll
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\bin\Debug\net8.0\Timepiece.Repositories.pdb
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\bin\Debug\net8.0\Timepiece.Common.pdb
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\obj\Debug\net8.0\Timepiece.Services.csproj.AssemblyReference.cache
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\obj\Debug\net8.0\Timepiece.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\obj\Debug\net8.0\Timepiece.Services.AssemblyInfoInputs.cache
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\obj\Debug\net8.0\Timepiece.Services.AssemblyInfo.cs
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\obj\Debug\net8.0\Timepiece.Services.csproj.CoreCompileInputs.cache
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\obj\Debug\net8.0\Timepiec.A4A62A9B.Up2Date
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\obj\Debug\net8.0\Timepiece.Services.dll
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\obj\Debug\net8.0\refint\Timepiece.Services.dll
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\obj\Debug\net8.0\Timepiece.Services.pdb
+C:\Users\huynh\OneDrive\Desktop\VintageTimepiece\TimepieceController\Timepiece.Services\obj\Debug\net8.0\ref\Timepiece.Services.dll
