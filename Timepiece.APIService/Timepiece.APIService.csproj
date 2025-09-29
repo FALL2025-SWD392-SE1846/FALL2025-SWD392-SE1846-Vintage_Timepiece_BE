@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+	
+	<PropertyGroup>
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+		<NoWarn>1591</NoWarn>
+		<!-- tránh warning thiếu comment -->
+	</PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Hubs\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Timepiece.Common\Timepiece.Common.csproj" />
+    <ProjectReference Include="..\Timepiece.Services\Timepiece.Services.csproj" />
+  </ItemGroup>
+
+</Project>

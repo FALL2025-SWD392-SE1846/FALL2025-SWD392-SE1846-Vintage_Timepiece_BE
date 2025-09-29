@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Timepiece.APIService</name>
+    </assembly>
+    <members>
+        <member name="T:Timepiece.APIService.Controllers.AccountController.AccountController">
+            <summary>
+            API quản lý tài khoản người dùng
+            </summary>
+        </member>
+        <member name="M:Timepiece.APIService.Controllers.AccountController.AccountController.GetAccount">
+            <summary>
+            Lấy thông tin người dùng
+            </summary>
+            <remarks>
+            API cho phép Admin hoặc Manager lấy thông tin người dùng trong hệ thống.
+            </remarks>
+            <param name="dto">Thông tin người dùng cần lấy</param>
+            <returns>Thông tin người dùng đã lấy</returns>
+            <response code="200">Tạo người dùng thành công</response>
+            <response code="400">Dữ liệu không hợp lệ</response>
+            <response code="500">Lỗi hệ thống</response>
+        </member>
+        <member name="M:Timepiece.APIService.Controllers.AccountController.AccountController.CreateAccount(Timepiece.Common.DTOs.AccountDTOs.CreateAccountDto)">
+            <summary>
+            Tạo mới thông tin người dùng
+            </summary>
+            <remarks>
+            API cho phép Admin hoặc Manager tạo mới thông tin người dùng trong hệ thống.
+            </remarks>
+            <param name="dto">Thông tin người dùng cần tạo</param>
+            <returns>Thông tin người dùng đã tạo</returns>
+            <response code="200">Tạo người dùng thành công</response>
+            <response code="400">Dữ liệu không hợp lệ</response>
+            <response code="500">Lỗi hệ thống</response>
+        </member>
+        <member name="M:Timepiece.APIService.Controllers.AccountController.AccountController.UpdateAccount(System.Guid,Timepiece.Common.DTOs.AccountDTOs.UpdateAccountDto)">
+            <summary>
+            Cập nhật mới thông tin người dùng
+            </summary>
+            <remarks>
+            API cho phép Admin hoặc Manager cập nhật mới thông tin người dùng trong hệ thống.
+            </remarks>
+            <param name="dto">Thông tin người dùng cần cập nhật</param>
+            <returns>Thông tin người dùng đã cập nhât</returns>
+            <response code="200">Cập nhật người dùng thành công</response>
+            <response code="400">Dữ liệu không hợp lệ</response>
+            <response code="500">Lỗi hệ thống</response>
+        </member>
+        <member name="M:Timepiece.APIService.Controllers.AccountController.AccountController.DeleteAccount(System.Guid)">
+            <summary>
+            Xóa thông tin người dùng
+            </summary>
+            <remarks>
+            API cho phép Admin hoặc Manager xóa thông tin người dùng trong hệ thống.
+            </remarks>
+            <param name="dto">Thông tin người dùng cần xóa </param>
+            <returns>Thông tin người dùng đã xóa</returns>
+            <response code="200">Xóa người dùng thành công</response>
+            <response code="400">Dữ liệu không hợp lệ</response>
+            <response code="500">Lỗi hệ thống</response>
+        </member>
+    </members>
+</doc>
